@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.borda{
+    border: 1px solid #3b80e7;
+    border-radius: 20px;
+
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
